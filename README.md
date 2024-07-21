@@ -1,5 +1,7 @@
 🖐️✊✌️ **Rock Paper Scissors Image Classifier**
 
+**Click below to watch the RPS Classifier demo video:**
+
 https://vimeo.com/987973106
 
 This project implements a deep learning model to classify images of hand gestures into Rock, Paper, or Scissors categories.
@@ -27,7 +29,7 @@ Scissors ✂️
 
 🛠️ **Requirements**
 
-Python 3.7
+Python 3.9
 Libraries:
 
 OpenCV (cv2)
