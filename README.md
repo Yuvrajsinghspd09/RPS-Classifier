@@ -98,14 +98,6 @@ plt.title(f"Prediction: {label} ({confidence:.2f})")
 
 plt.show()
 
-🎮 **Try it yourself!**
-
-Experience the Rock Paper Scissors classifier in action!
-
-👉 **Click here to try our online demo**
-Upload your own images and watch the AI make its predictions!
-
-(Note: Replace the "#" with your actual demo URL)
 
 🤝 **Contributing**
 We welcome contributions! Here's how you can help:
