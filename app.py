@@ -1,8 +1,9 @@
-import cv2
+import cv2.cv2 as cv2
 import numpy as np
 import streamlit as st
 from tensorflow.keras.models import load_model
 import mediapipe as mp
+
 
 # Caching the model load to improve performance
 @st.cache_resource
