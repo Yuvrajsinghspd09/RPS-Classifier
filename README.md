@@ -1,6 +1,7 @@
 🖐️✊✌️ **Rock Paper Scissors Image Classifier**
 
-[![RPS Model Test](https://i.vimeocdn.com/video/987973106_640.jpg)](https://htmlpreview.github.io/?https://github.com/Yuvrajsinghspd09/RPS-Classifier/blob/main/video.html)
+
+[![RPS Model Test](https://i.vimeocdn.com/video/987973106.jpg)](https://htmlpreview.github.io/?https://github.com/Yuvrajsinghspd09/RPS-Classifier/blob/main/video.html)
 
 This project implements a deep learning model to classify images of hand gestures into Rock, Paper, or Scissors categories.
 
