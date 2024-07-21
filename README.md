@@ -2,6 +2,19 @@
 
 This project implements a deep learning model to classify images of hand gestures into Rock, Paper, or Scissors categories.
 
+🚀 Try it Yourself!
+Experience the Rock Paper Scissors classifier in action!
+
+Fork the Repository: Click the "Fork" button at the top right corner of the repository page.
+
+Clone the Repository: Use git clone <your-forked-repo-url> to clone the forked repository to your local machine.
+
+Run the Application: Navigate to the project directory and run the application with:
+
+`streamlit run app.py`
+
+
+
 🔍 **Overview**
 
 The classifier uses a pre-trained Keras model to predict the class of a given image. It can distinguish between three classes:
