@@ -1,16 +1,16 @@
-🖐️✊✌️ Rock Paper Scissors Image Classifier
+🖐️✊✌️ **Rock Paper Scissors Image Classifier**
 
 This project implements a deep learning model to classify images of hand gestures into Rock, Paper, or Scissors categories.
-🔍 Overview
+🔍 **Overview**
 The classifier uses a pre-trained Keras model to predict the class of a given image. It can distinguish between three classes:
 
 Rock 🪨
 Paper 📄
 Scissors ✂️
 
-🛠️ Requirements
+🛠️ **Requirements**
 
-Python 3.x
+Python 3.7
 Libraries:
 
 OpenCV (cv2)
@@ -21,14 +21,14 @@ Matplotlib
 
 
 
-🚀 Usage
+🚀 **Usage**
 
 Setup: Ensure you have the required libraries installed.
 Model Placement: Place your trained model file (best_rps_model.h5) in the same directory as the script.
 Image Selection: Update the custom_image_path variable with the path to your test image.
 Execution: Run the script to see the prediction and visualization.
 
-🧠 How it works
+🧠 **How it works**
 
 Model Loading: The script loads a pre-trained model from best_rps_model.h5.
 Image Preprocessing:
@@ -40,7 +40,7 @@ Normalizes the pixel values
 Prediction: The model predicts the class of the image.
 Visualization: Displays the image with the predicted class and confidence score.
 
-🖥️ Code Breakdown
+🖥️ **Code Breakdown**
 Key Functions:
 
 preprocess_custom_image(image_path)
@@ -71,14 +71,14 @@ plt.imshow(image)
 plt.title(f"Prediction: {label} ({confidence:.2f})")
 plt.show()
 
-🎮 Try it yourself!
+🎮 **Try it yourself!**
 Experience the Rock Paper Scissors classifier in action!
 
-👉 Click here to try our online demo
+👉 **Click here to try our online demo**
 Upload your own images and watch the AI make its predictions!
 (Note: Replace the "#" with your actual demo URL)
 
-🤝 Contributing
+🤝 **Contributing**
 We welcome contributions! Here's how you can help:
 
 Fork the repository
@@ -87,8 +87,4 @@ Commit your changes
 Push to the branch
 Create a new Pull Request
 
-Found a bug or have a suggestion? Open an issue and let us know!
-📄 License
-[Include your chosen license here]
 
-Happy classifying! May the best hand win! 🏆
