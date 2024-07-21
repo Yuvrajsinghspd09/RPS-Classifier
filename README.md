@@ -1,7 +1,9 @@
 🖐️✊✌️ **Rock Paper Scissors Image Classifier**
 
 This project implements a deep learning model to classify images of hand gestures into Rock, Paper, or Scissors categories.
+
 🔍 **Overview**
+
 The classifier uses a pre-trained Keras model to predict the class of a given image. It can distinguish between three classes:
 
 Rock 🪨
